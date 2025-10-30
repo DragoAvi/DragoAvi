@@ -1,7 +1,4 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:1a1a1a&height=180&section=header&text=DragoAvi%20%F0%9F%8E%8A&fontSize=48&fontColor=ffffff" alt="header" />
-</p>
 
 <h1 align="center">Hi, I'm Avinash Mishra</h1>
 <p align="center">
